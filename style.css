@@ -1,0 +1,240 @@
+html,body{
+    color: #fff;
+      overflow-x: hidden;
+      font-family: 'Ropa Sans', sans-serif;
+}
+
+
+
+#title h1{ color: #0d334d;
+  font-size: 3rem;
+  text-align: left;
+  padding-top: 4%;
+  padding-left: 4%;
+  padding-bottom:200px;
+  font-family: 'Andada Pro', serif;
+}
+
+#title .nav-link{
+  font-size: 1.4rem;
+}
+.logo{
+    font-size: 2.9rem;
+}
+.membe{
+  text-align: center;
+
+}
+.buttons{
+  text-align: center;
+  padding:50px;
+}
+#title h3{
+text-align: center;
+  padding-top:380px;
+  font-size: 2.4rem;
+}
+#title h2{
+  font-size: 1.7rem;
+  text-align: left;
+padding: 0 12%;
+
+}
+#title .nav-item{
+  margin:3px;
+  font-size: 1.2rem;
+}
+#title .collapse{
+  padding: 1%;
+}
+#title .navbar-nav{
+  padding-right: 47px;
+}
+#title .navbar-brand{
+  padding-left: 3%;
+}
+.first-page{
+background-image: url('pic.jpeg');
+background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: 100% 100%;
+}
+
+.buybutton{
+  padding: 6%;
+  padding-left: 11%;
+}
+.buybutton a{
+  padding: 1% 3%;
+  margin: 1%;
+}
+.fetr{
+  padding-top: 60px;
+}
+.images{
+  padding-top: 50px;
+  max-width:150px;;
+  width: auto;
+}
+.crd{
+  text-align: left;
+  padding: 6%;
+  padding-bottom: 10%;
+}
+.crdi{
+  text-align: center;
+  padding: 2%;
+}
+
+#features{
+  background-color:#a4c9d8;
+  font-family: 'Manrope', sans-serif;
+}
+#features h2{
+  font-size: 1.5rem;
+  color: black;
+}
+
+#goals{
+background-color:#E9EAEC;
+    text-align:center;
+    font-family: 'Manrope', sans-serif;
+color: black;
+}
+
+#goals h3{
+text-align: left;
+font-size: 1.5rem;
+padding:8% 6% ;
+}
+#goals img{
+  max-height: 500px;
+  width: auto;
+  padding-top: 20%;
+}
+.btom{
+  padding-bottom: 0;
+}
+#goals h1{
+  padding:10px;
+  padding-top: 7%;
+  font-family: 'Comfortaa', cursive;
+  color: black;
+  font-size: 2.5rem}
+
+#team{
+    background-color:#E9EAEC;
+    text-align: center;
+    padding: 5px;
+color: black;
+}
+.team-pic{
+  padding: 10px;
+border-radius: 50%;
+max-width: 130px;
+height: 130px;
+}
+#team h2{
+  font-size: 0.9rem;
+  color: black;
+}
+
+.member{
+  padding:3% 2%;
+}
+#team h1{
+  padding: 5% 0 2%;
+font-family: 'Comfortaa', cursive;
+  font-size: 2.5rem;
+}
+.detail{
+  padding: 8%;
+  font-size: 2rem;
+}
+.detailed{
+  background-color: white;
+}
+.detailed img{
+  height: 77px;
+  width: auto;
+  padding-bottom: 4%;
+}
+.npl{
+  margin-top: 15px;
+}
+#contact{
+background-color:#E9EAEC;
+    padding: 60px 0 25px;
+    padding-left: 3%;
+    color: black;
+}
+#contact p{
+  padding: 40px 0 0;
+  color: black;
+  font-size: 0.8rem;
+  text-align: center;
+}
+#contact i{
+  padding: 1.5%;
+  text-align: left;
+}
+.links{
+  padding-top: 7%;
+text-align: left;
+}
+#contact .col-6{
+  padding-left: 0;
+}
+
+.vdo{
+  padding: 1% 3%;
+  text-align: center;
+}
+.txt p{
+  padding-left: 3%;
+  padding-top: 1%;}
+.highlights{
+  font-size: 1.5rem;
+  font-family: 'Open Sans', sans-serif;
+}
+.htb{
+text-align: center;
+      padding:8% 3%;
+      font-size: 1.3rem;
+}
+.steps{
+  font-family: 'Manrope', sans-serif;
+  padding-left: 3%;
+  line-height: 1.2;
+  padding-top: 2%;
+  font-size: 1.2rem;
+}
+.last{
+  padding: 7%;
+  text-align: center;
+  padding-top: 12%;
+}
+.sub-page{
+  background-color:#2d5758;
+  color:#fff;
+}
+.garaph{
+  max-height: auto;
+  max-width: 65%;
+padding: 5%;
+}
+@media (max-width:700px){
+  .garaph{
+    max-height: auto;
+    max-width: 100%;
+  }
+  #title h3{
+  text-align: center;
+    padding-top:300px;
+    font-size: 2rem;
+  }
+}
+#journy{
+  text-align: center;
+  background-color: #E9EAEC;
+}
